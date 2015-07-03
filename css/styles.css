@@ -1,0 +1,17 @@
+#header {
+  background: url(../images/db_background.png);
+  background-size: cover;
+  text-align: center;
+  padding: 6rem 0;
+}
+
+#header h1 {
+  color: #fff;
+}
+
+#coming-soon {
+  background: #E74C3C;
+  text-align: center;
+  padding: 4rem 0;
+  color: #fff;
+}
