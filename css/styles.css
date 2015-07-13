@@ -22,12 +22,6 @@ p {
   color: #fff;
 }
 
-@media (min-width: 400px) {
-  #header img {
-    width: 300px;
-  }
-}
-
 #header img {
   width: 200px;
 }
@@ -52,4 +46,10 @@ p {
   text-align: center;
   padding: 4rem 0;
   color: #fff;
+}
+
+@media (min-width: 400px) {
+  #header img {
+    width: 300px;
+  }
 }
