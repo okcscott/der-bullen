@@ -11,6 +11,10 @@ p {
   font-size: 18px;
 }
 
+.text-center {
+  text-align: center;
+}
+
 #header {
   background: url(../images/db_background.png);
   background-size: cover;
@@ -46,6 +50,45 @@ p {
   text-align: center;
   padding: 4rem 0;
   color: #fff;
+}
+
+#bio {
+  background: #20282b;
+}
+
+#bio h2 {
+  color: #fff;
+  margin-top: 4rem;
+  margin-bottom: 0;
+}
+
+#bio h4 {
+  color: #E74C3C;
+  margin-top: -1rem;
+}
+
+#bio p {
+  color: #999;
+}
+
+.season {
+  padding: 4rem 0;
+}
+
+.season h2 {
+  color: #555;
+}
+
+.season h5 {
+  color: #999;
+  margin-bottom: 10px;
+  font-weight: normal;
+  border-bottom: solid 1px #999;
+  display: inline-block;
+}
+
+.season h3 {
+  color: #E74C3C;
 }
 
 @media (min-width: 400px) {
