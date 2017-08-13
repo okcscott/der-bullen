@@ -64,7 +64,11 @@ p {
 
 #bio h4 {
   color: #E74C3C;
-  margin-top: -1rem;
+  letter-spacing: 3px;
+  font-weight: 500;
+  font-size: 2rem;
+  margin-top: 0;
+  margin-left: 0.2rem;
 }
 
 #bio p {
